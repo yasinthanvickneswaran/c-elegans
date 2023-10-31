@@ -3,13 +3,12 @@
 find a list of all the datasets and compile them
 
 1. Multilayer connectome of Caenorhabditis elegans (Bentley 2016) (https://doi.org/10.1371/journal.pcbi.1005283)
-2. C.elegans Cell List (WormAtlas)
-3. C.elegans Cell List (WormBase)
-4. herm_full_edgelist
+2. C.elegans Cell List (WormAtlas) (http://www.wormatlas.org/)
+3. C.elegans Cell List (WormBase) (http://doi.org/10.1093/nar/gkp952) (http://doi.org/10.1002/cfg.248)
+4. herm_full_edgelist (Cook 2015) (http://abstracts.genetics-gsa.org/cgi-bin/celegans15s/wsrch15.pl?author=emmons&sort=ptimes&sbutton=Detail&absno=155110844&sid=668862)
 5. modified celegans db dump
-6. herm_full_edgelist modified
-7. Celegans NeuronsTable
-8. NeuronsConnectFormatted
+6. Celegans NeuronsTable (OpenWorm)
+7. NeuronsConnectFormatted
 
 different packages to analyse and visualise the datasets
 1. Problog (https://www.researchgate.net/publication/244995125_Data_acquisition_and_modeling_for_learning_and_reasoning_in_probabilistic_logic_environment)
