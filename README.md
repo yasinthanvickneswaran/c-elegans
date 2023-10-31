@@ -8,7 +8,6 @@ find a list of all the datasets and compile them
 4. herm_full_edgelist (Cook 2015) (http://abstracts.genetics-gsa.org/cgi-bin/celegans15s/wsrch15.pl?author=emmons&sort=ptimes&sbutton=Detail&absno=155110844&sid=668862)
 5. modified celegans db dump
 6. Celegans NeuronsTable (OpenWorm)
-7. NeuronsConnectFormatted
 
 different packages to analyse and visualise the datasets
 1. Problog (https://www.researchgate.net/publication/244995125_Data_acquisition_and_modeling_for_learning_and_reasoning_in_probabilistic_logic_environment)
