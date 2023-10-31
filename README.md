@@ -22,7 +22,7 @@ biological constraints:
 problems with reconstruction
 1. static picture of a dynamic system so information is lost
 2. multiple different worms are used to reconstruct one connectome
-3. lack of external input of extrasynaptic input
+3. lack of external information of extrasynaptic input
 
 ideas for visualising the connectome
 1. abstract the data down the levels from L5-L1, to help compare differences in datasets (ProbLog)
