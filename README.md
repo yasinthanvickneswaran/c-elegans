@@ -7,6 +7,9 @@ find a list of all the datasets and compile them
 3. C.elegans Cell List (WormBase)
 4. herm_full_edgelist
 5. modified celegans db dump
+6. herm_full_edgelist modified
+7. Celegans NeuronsTable
+8. NeuronsConnectFormatted
 
 different packages to analyse and visualise the datasets
 1. Problog (https://www.researchgate.net/publication/244995125_Data_acquisition_and_modeling_for_learning_and_reasoning_in_probabilistic_logic_environment)
@@ -27,6 +30,18 @@ ideas for visualising the connectome
 2. as there is fixed unsegmented body shape, is it possible to revisualise the connectome with boundary of the worm as the centre, to find out overall length of neural network
 
 general rules and open questions:
-1. most bilaterally symmetric pairs of neurons arise from bilaterally symmetric cell lineages, but there are exceptions (symmetry as way to reduce energy cost)
+1. most bilaterally symmetric pairs of neurons arise from bilaterally symmetric cell lineages, but there are exceptions (symmetry as way to reduce energy cost?)
 2. how does male specific neurons influence the wiring of non-male specific neurons in general circuitry? is there a significant energy cost to the rewiring
 3. is it better to analyse the connectome separately for male vs hermaphrodite or combine them and merge sex-specific circuitry?
+
+Behaviour:
+1. locomotion
+2. foraging
+3. feeding
+4. defecation
+5. dauer larve formation
+6. egg laying (sex-specific)
+7. male mating (sex-specific)
+8. sensory responses to touch, smell, taste, temperature
+9. social behaviour
+10. learning and memory
