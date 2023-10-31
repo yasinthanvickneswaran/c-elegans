@@ -24,3 +24,9 @@ problems with reconstruction
 
 ideas for visualising the connectome
 1. abstract the data down the levels from L5-L1, to help compare differences in datasets (ProbLog)
+2. as there is fixed unsegmented body shape, is it possible to revisualise the connectome with boundary of the worm as the centre, to find out overall length of neural network
+
+general rules and open questions:
+1. most bilaterally symmetric pairs of neurons arise from bilaterally symmetric cell lineages, but there are exceptions (symmetry as way to reduce energy cost)
+2. how does male specific neurons influence the wiring of non-male specific neurons in general circuitry? is there a significant energy cost to the rewiring
+3. is it better to analyse the connectome separately for male vs hermaphrodite or combine them and merge sex-specific circuitry?
