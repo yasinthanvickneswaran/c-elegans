@@ -12,6 +12,7 @@ find a list of all the datasets and compile them
 different packages to analyse and visualise the datasets
 1. Problog (https://www.researchgate.net/publication/244995125_Data_acquisition_and_modeling_for_learning_and_reasoning_in_probabilistic_logic_environment)
 2. Gen (http://probcomp.csail.mit.edu/software/gen/)
+3. UMAP (https://arxiv.org/abs/1802.03426)
 
 biological constraints:
 1. wiring cost (energy efficency)
