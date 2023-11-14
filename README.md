@@ -33,7 +33,7 @@ general rules and open questions:
 3. is it better to analyse the connectome separately for male vs hermaphrodite or combine them and merge sex-specific circuitry?
 
 Behaviour:
-1. locomotion
+1. locomotion:CePNEM expression dependent on velocity, head curvature, pumping rate
 2. foraging
 3. feeding
 4. defecation
