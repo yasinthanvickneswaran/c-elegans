@@ -17,7 +17,7 @@ Concise descriptions for over 5597 genes (¼ of the protein coding genes in C.el
   
   443 new isoforms
     
-    Based on either RNA-seq transcript data or on comparative gene analysis
+  Based on either RNA-seq transcript data or on comparative gene analysis
 
 11 changes to canonical genomic sequence
 
