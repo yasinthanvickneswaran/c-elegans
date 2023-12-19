@@ -1,4 +1,4 @@
-## Significant updates and corrections to previous data
+## Significant updates and corrections to previous data (Whole-animal connectome)
 DVB/PVT mixup.  The ventral cord processes of these neurons were crossed in MOW.  PVT extends to the head, DVB ends mid-body.  Previously reported: (WBG 16(1):24 (October 1, 1999)).
 
 PVCL and PVCR.  In MOW these were switched at N2U ventral cord section 1656.
