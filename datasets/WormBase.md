@@ -10,10 +10,10 @@ WormBook: www.wormbook.org
 
 # Data curation update
 Concise descriptions for over 5597 genes (¼ of the protein coding genes in C.elegans)
-2094 C.elegans gene structure changes
-127 new genes
-443 new isoforms
-Based on either RNA-seq transcript data or on comparative gene analysis
+  2094 C.elegans gene structure changes
+  127 new genes
+  443 new isoforms
+    Based on either RNA-seq transcript data or on comparative gene analysis
 11 changes to canonical genomic sequence
 10 changes were 1bp
 Largest was an insertion of 1469 bp
