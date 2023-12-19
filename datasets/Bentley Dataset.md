@@ -1,5 +1,4 @@
 ## The Multilayer Connectome of Caenorhabditis elegans
-The Multilayer Connectome of Caenorhabditis elegans
 
 # Abstract:
 Extrasynaptic modulation (monoamines and peptides) influence neural circuits
