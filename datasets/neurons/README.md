@@ -3,9 +3,9 @@ DVB/PVT mixup.  The ventral cord processes of these neurons were crossed in MOW.
 
 PVCL and PVCR.  In MOW these were switched at N2U ventral cord section 1656.
 
-Sublateral motor neurons.  MOW contained no data for the sublateral cords anterior or posterior to the nerve ring, and no neuromuscular junctions for these neurons along the body. Synapses were first noted by immunofluorescence, then confirmed by sampling multiple animals (not reconstructed)
+Sublateral motor neurons.  MOW contained no data for the sublateral cords anterior or posterior to the nerve ring, and no neuromuscular junctions for these neurons along the body. Synapses were first noted by immunofluorescence, then confirmed by sampling multiple animals (not reconstructed).
 
-Lateral nerves were closely examined in multiple animals to assess synapses for the first time (not reconstructed except for short portions) (Ramirez-Suarez N.J., Belalcazar H.M., Salazar C.J., Beyaz B., Raja B., Nguyen K.C.Q., Celestrin K., Fredens J., Færgeman N.J., Hall D.H., and Bülow H.E. (2018) Axon-dependent patterning and maintenance of somatosensory dendritic arbors, Dev Cell. 2019 Jan 28;48(2):229-244.)
+Lateral nerves were closely examined in multiple animals to assess synapses for the first time (not reconstructed except for short portions) (Ramirez-Suarez N.J., Belalcazar H.M., Salazar C.J., Beyaz B., Raja B., Nguyen K.C.Q., Celestrin K., Fredens J., Færgeman N.J., Hall D.H., and Bülow H.E. (2018) Axon-dependent patterning and maintenance of somatosensory dendritic arbors, Dev Cell. 2019 Jan 28;48(2):229-244.).
 
 Motor neurons re-assigned as interneurons: RIM, RMF, RMG.  nmj's reported in MOW for the adult RMF could not be verified.
 
