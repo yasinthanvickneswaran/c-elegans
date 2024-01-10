@@ -32,5 +32,4 @@ https://doi.org/10.1371/journal.pcbi.1005283*
 **Neuropeptide network construction**
 - Constructed from published expression data for peptides and receptors using similar methods for the monoamines
 - Only those systems were included for which sufficient expression and ligand-receptor interaction data in the literature (biologically plausible EC50 values)
-
-15 neuropeptides and 12 receptors were matched and included
+- 15 neuropeptides and 12 receptors were matched and included
