@@ -10,6 +10,13 @@
 - There are 118 classes, 5000 chemical synapses, 2000 NMJs and 600 gap junctions.
 - Look at appendix 2 for minor ambiguities (*link to be inserted*)
 
+**Reliability of data**
+1. Human error: when following long featureless process bundles, it resulted in switch processes.
+2. Many processes run close to plane of sectioining and so it provides images with indistinct objects leading to problems in identificatino
+3. Similar errors of process identificaiton in area of poor image quality cause dby dirt or loss of sections on grid bars
+
+
+
 **Behaviour:**
 - _C.elegans_ pass through 4 larval stages before reaching adulthood: L1, L2, L3, L4. Each stage is terminated by a moult.
 - If food is scarce, animals can go trhough an alternative developmental sequence. A dauer larval form is produced at the L2-L3 moult.
