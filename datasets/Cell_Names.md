@@ -19,7 +19,7 @@
 - Describes the functions of many cells in development or in mature animals
 - Provides detailed functional and morphological information on anatomy
 
-# C.elegans cells and anatomy
+**C.elegans cells and anatomy**
 - Free living soil nematode that feeds on bacteria in the laboratory
 - Two sexes: self-fertilising hermaphrodite (morphologically female) and male
 - 7 major development stages: embryo, 4 larval stages (L1-L4) reproductive adult, dispersal dauer larval stage (alternative to L3): only takes place under certain harsh living conditions
