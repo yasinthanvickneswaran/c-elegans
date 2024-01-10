@@ -11,6 +11,15 @@ _Published: 3 July 2019_
   - Inputs from sex-specific circuitry to central circuitry reveal points at which sexual and non-sexual pathways converge
   - Sex-shared central pathways, a substantial no. of connections differ in strength between the sexes
 
+**Whole animal connectomes**
+- Small world, network motifs, modules and rich clubs
+- Reconstruction of circuity for the male head, including the nerve ring and retrovesicular ganglion, from a new EM series and re-annotate previously generated prints of the hermaphrodite
+- Graph of the hermaphrodite connectome has 460 nodes (302 neurons, 132 muscles and 26 non-muscle end organs)
+  - Male graph has 579 nodes (385 neurons, 155 muscles and 39 non-muscle end organs)
+- Two dimensional layouts of the connectivity graphs based on computational arrangement reveal the pathways of sensory information flow
+- Small number (1-5) of synaptic steps between the sensory neurons and the end organs and feedforward nature of the networks
+- Placement of the nodes to the neuroanatomy of the worm reflects economical wiring, a property commonly found for nervous systems, including in C.elegans
+
 
 
 
