@@ -1,3 +1,27 @@
+## Whole-animal connectomes of both _Caeonrhabditis elegans_ sexes
+_Steven J. Cook, Travis A. Jarrell, Christopher A. Brittin, Yi Wang, Adam E. Bloniarz, Maksim A. Yakovlev, Ken C. Q. Nguyen, Leo T.-H. Tang, Emily A. Bayer, Janet S. Duerr, Hannes E. Bülow, Oliver Hobert, David H. Hall & Scott W. Emmons_
+
+_Published: 3 July 2019_
+
+# Abstract
+- Present quantitative connectivity matrices that encompass all connections from sensory input to end-organ output across the entire animal.
+- Serial EM reconstructions that are based on analysis of both new and previously published EM update results and include data on male head
+- Nervous system differs between sexes at multiple levels:
+  - Several sex-shared neurons that function in circuits for sexual behaviour are sexually dimorphic in structure and connectivity
+  - Inputs from sex-specific circuitry to central circuitry reveal points at which sexual and non-sexual pathways converge
+  - Sex-shared central pathways, a substantial no. of connections differ in strength between the sexes
+
+
+
+
+
+
+
+
+
+
+
+
 ## Significant updates and corrections to previous data (Whole-animal connectome)
 DVB/PVT mixup.  The ventral cord processes of these neurons were crossed in MOW.  PVT extends to the head, DVB ends mid-body.  Previously reported: (WBG 16(1):24 (October 1, 1999)).
 
