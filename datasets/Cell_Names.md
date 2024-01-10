@@ -7,7 +7,6 @@
 - Cell-based information concerning gene expression and the role of specific cells in developmental signalling and behavioural circuits
 - WormBase has begun to construct a C.elegans cell and anatomy ontology
 
-# Introduction
 - Ontologies (e.g. GO) give a logical machine readable structure for large scale genomic analysis
 
 # CECAO
