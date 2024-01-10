@@ -1,7 +1,7 @@
 ## WormBase: a comprehensive resource for nematode research
 _Todd W. Harris, Igor Antoshechkin, Tamberlyn Bieri, Darin Blasiar, Juancarlos Chan, Wen J. Chen, Norie De La Cruz, Paul Davis, Margaret Duesbury, Ruihua Fang, Jolene Fernandes, Michael Han, Ranjana Kishore, Raymond Lee, Hans-Michael Muller, Cecilia Nakamura, Philip Ozersky, Andrei Petcherski, Arun Rangarajan, Anthony Rogers, Gary Schindelman, Erich M. Schwarz, Mary Ann Tuli, Kimberly Van Auken, Daniel Wang, Xiaodong Wang, Gary Williams, Karen Yook, Richard Durbin, Lincoln D. Stein, John Spieth and Paul W. Sternberg_
 
-_Published October 12, 2009 https://doi.org/10.1093/nar/gkp952 _
+_Published October 12, 2009 https://doi.org/10.1093/nar/gkp952_
 
 # Abstract
 Expanded WormBase to include the complete genomic sequence, gene prediction and orthology assignments from a range of related nematodes
