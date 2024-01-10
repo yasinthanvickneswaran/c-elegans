@@ -12,8 +12,8 @@
 
 **Reliability of data**
 1. Human error: when following long featureless process bundles, it resulted in switch processes.
-2. Many processes run close to plane of sectioining and so it provides images with indistinct objects leading to problems in identificatino
-3. Similar errors of process identificaiton in area of poor image quality cause dby dirt or loss of sections on grid bars
+2. Many processes run close to plane of sectioning and so it provides images with indistinct objects leading to problems in identification
+3. Similar errors of process identification in area of poor image quality caused by dirt or loss of sections on grid bars
 
 
 
