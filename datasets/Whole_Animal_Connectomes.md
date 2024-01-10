@@ -20,6 +20,17 @@ _Published: 3 July 2019_
 - Small number (1-5) of synaptic steps between the sensory neurons and the end organs and feedforward nature of the networks
 - Placement of the nodes to the neuroanatomy of the worm reflects economical wiring, a property commonly found for nervous systems, including in C.elegans
 
+**Architecture of information flow**
+- Polarity of the chemical synapses and the architecture of the physical connectivity networks to order the sex-shared neurons and end organ classes using an algorithm that detects hierarchy in a network
+- Interneurons can be categorised roughly into one of three layers that reflect preponderance of their output onto the layer below and approx the number of synaptic steps to motor neurons
+- Fourth interneuron category: consists of interneurons that interact across all layers, cannot be fitted into this layered structure
+- 83 sensory neurons that are shared by both sexes may be grouped into six categories based on type of stimulus, connectivity and the nature of the evoked behavioural response
+- Chemical connectivity between the three interneuron layers forms a feedforward loop:
+  - Layer 3 substantially targets both layer 2 and layer 1
+  - Layer 2 targets layer 1
+  - Feedforward loop is a prevalent motif in the C.elegans connectome
+- Node degree: amount of convergence and divergence at single nodes in a network (number of attached edges)
+  - Diverging connectivity enables information from single sensory neurons to potentially reach from 70% to 98% of all the other cells in the network within two synaptic steps
 
 
 
