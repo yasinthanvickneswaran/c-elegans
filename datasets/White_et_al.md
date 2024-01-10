@@ -8,7 +8,7 @@
 **Abstract:**
 - Hermaphrodite nervous system consists of 302 neurons arranged in an invariant structure.
 - There are 118 classes, 5000 chemical synapses, 2000 NMJs and 600 gap junctions.
-- Look at appendix 2 for minor ambiguities (link)
+- Look at appendix 2 for minor ambiguities (*link to be inserted*)
 
 **Behaviour:**
 - _C.elegans_ pass through 4 larval stages before reaching adulthood: L1, L2, L3, L4. Each stage is terminated by a moult.
