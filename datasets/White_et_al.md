@@ -1,4 +1,4 @@
-# The Structure of the Nervous System of the Nematode *Caenorhabditis elegans #
+# The Structure of the Nervous System of the Nematode *Caenorhabditis elegans* #
 
 *By J.G.White, E.Southgate, J.N. Thomson and S.Brenner, F.R.S.*
 
