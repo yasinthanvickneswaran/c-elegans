@@ -54,3 +54,11 @@
 - Male: male gonad form a cloaca in the tail which is endowed with sensory endings (derived from male-specific neurons)
 - They are generated post-embryonically along with other neurons in the male
 - It also has extra ventral body muscles and muscles that control copulatory spicules.
+
+**Nervous System**
+- Organised into 302 neurons consisting of 118 classes (class size ranges from 1 to 13)
+
+_Sensory transduction_
+- sensilla (sense organs): containe one or a number of ciliated nerve endings and 2 non-neuronal cells (sheath and socket cell)
+- socket cell: interfacial hypodermal cell acting to join the sensilum to the hypodermis
+- sheath cell: (defined extracellular mileu for receptor endings). It is a glial-like cell that envelops the endings of neurons.
