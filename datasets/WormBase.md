@@ -1,4 +1,5 @@
-## WormBase: (https://academic.oup.com/nar/article/38/suppl_1/D463/3112301)
+## WormBase: a comprehensive resource for nematode research
+_Todd W. Harris, Igor Antoshechkin, Tamberlyn Bieri, Darin Blasiar, Juancarlos Chan, Wen J. Chen, Norie De La Cruz, Paul Davis, Margaret Duesbury, Ruihua Fang, Jolene Fernandes, Michael Han, Ranjana Kishore, Raymond Lee, Hans-Michael Mu¨ller, Cecilia Nakamura, Philip Ozersky, Andrei Petcherski, Arun Rangarajan, Anthony Rogers, Gary Schindelman, Erich M. Schwarz, Mary Ann Tuli, Kimberly Van Auken, Daniel Wang, Xiaodong Wang, Gary Williams, Karen Yook, Richard Durbin, Lincoln D. Stein, John Spieth and Paul W. Sternberg_
 
 
 # Abstract
