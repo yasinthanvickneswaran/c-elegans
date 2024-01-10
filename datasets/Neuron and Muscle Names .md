@@ -1,7 +1,7 @@
 ## Building a Cell and Anatomy Ontology of C.elegans
 *Raymond Y. N. Lee and Paul W. Sternberg*
 
-*Published Dec 2002 https://doi.org/10.1002/cfg.248*
+*Published December,2 2002 https://doi.org/10.1002/cfg.248*
 
 # Abstract
 Cell-based information concerning gene expression and the role of specific cells in developmental signalling and behavioural circuits
