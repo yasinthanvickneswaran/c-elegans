@@ -32,4 +32,25 @@
 - There are four longitudinal ridges running down the inside of the body cavity: two medial and two lateral.
 - The ridges consist of hypodermis adjacent to a bundle of nerve processes (bounded by a basal lamina)
 - There are four strips of muscle cells running 4 quadrants between these longitudinal ridges. There are no obvious attachment points at either end and have attachments to the hypodermis distributed along their length. They act to deform the cuticle elastically against stress produced by the turgor pressure.
-- 
+
+**Feeding:**
+- Food is pumped into the animal and processed by a prominent pharynx
+- Pharynx is a self contained organ with its own musculature, epithelium and nervous system.
+- It functions largely as an autonomous unit
+- There are two interneurons that originate in the CNS and enter it.
+- RIP (interneurons) are exclusively postsynapic outside the pharynx and mediate overall control of pharyngeal pumping from the CNS
+- It is used for ingesting food (bacteria), concentrating it by filtration and grinding it.
+- It is also used for secreting digestive enzymes from its gland cells.
+- The processed food is pumped into the intestine
+- Defecation is controlled by three sets of specialised muscles
+
+**Excretory system:**
+- It consists of a single excretory canal cell arranged in a "H" configuration
+- Two arms of H run longitudinally down the lateral lines joined by a cross bridge, connected to the excretory duct on the ventral side.
+- There are processes run anteriorly on the ventral surface of the ventral nerve cord until nerve ring is reached. This is where they terminate
+
+**Reproductive system:**
+- Hemraphrodite: consists of symmetrical pairs of uteri, oviducts, spermathecae and ovaries, which are joined at the uteri and connect to a vulva.
+- Male: male gonad form a cloaca in the tail which is endowed with sensory endings (derived from male-specific neurons)
+- They are generated post-embryonically along with other neurons in the male
+- It also has extra ventral body muscles and muscles that control copulatory spicules.
