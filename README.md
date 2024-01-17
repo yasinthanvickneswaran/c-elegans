@@ -1,9 +1,9 @@
 ## c-elegans
 
 
-| Papers          | Datasets      | Extrasynaptic | Gap junction |
-| -------------   | -----         | ------------- | -----------  |
-| [White et al](datasets/connectomes/0.White_1984.md)  |       |      |
+| Papers          | Datasets      | Extrasynaptic | Gap junction | OpenWorm Readable |
+| -------------   | -----         | ------------- | -----------  | |
+| [White et al](datasets/connectomes/0.White_1984.md)  | | []     |
 | [Varshney et al](datasets/connectomes/1.Varshney_2011.md)  |       | |
 | [Cook et al](datasets/connectomes/2.Cook_2019.md)      |     |
 | [Brittin et al](datasets/connectomes/3.Brittin_2021.md)   |       |   |
