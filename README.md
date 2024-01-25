@@ -1,5 +1,7 @@
 ## c-elegans
 
+- need to add physical contact
+
 
 | Papers                                                     | Features      | Datasets      |
 | -------------                                              | -----         | -----         |
