@@ -9,4 +9,4 @@
 | [Brittin et al](datasets/connectomes/3.Brittin_2021.md)    | <ul><li>- [ ] Extrasynaptic</li><li>- [ ] Gap Junctions</li></ul><ul><li>- [ ] Openworm              || 
 | [Witvliet et al](datasets/connectomes/4.Witvliet_2021.md)  |<ul><li>- [ ] Extrasynaptic</li><li>- [ ] Gap Junctions</li></ul><ul><li>- [ ] Openworm               ||
 | [Pereira et al](datasets/extrasynaptic/0.Pereira_2015.md)  |<ul><li>- [x] Extrasynaptic</li><li>- [ ] Gap Junctions</li></ul><ul><li>- [ ] Openworm               ||
-| [Bentley et al](datasets/extrasynaptic/1.Bentley_2016.md)  |<ul><li>- [x] Extrasynaptic</li><li>- [ ] Gap Junctions</li></ul><ul><li>- [ ] Openworm               | [csv](datasets/neurons/Bentley_et_al_2016_expression.csv) |
+| [Bentley et al](datasets/extrasynaptic/1.Bentley_2016.md)  |<ul><li>- [x] Extrasynaptic</li><li>- [ ] Gap Junctions</li></ul><ul><li>- [x] Openworm               | [csv](datasets/neurons/Bentley_et_al_2016_expression.csv) |
