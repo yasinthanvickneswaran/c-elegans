@@ -1,8 +1,5 @@
 ## c-elegans
 
-- need to add physical contact
-
-
 | Papers                                                     | Features      | Datasets      |
 | -------------                                              | -----         | -----         |
 | [White et al](datasets/connectomes/0.White_1984.md)        | <ul><li>- [ ] Extrasynaptic</li><li>- [x] Gap Junctions</li></ul><ul><li>- [ ] Openworm|[N2U.txt](https://github.com/dwitvliet/nature2021/blob/0646af9d25896ae660f97d462eab2d67282f5625/data/legacy_data/wormwiring_N2U.txt)|
